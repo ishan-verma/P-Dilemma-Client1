@@ -1,4 +1,4 @@
-# P-Dilemma-Client2
+# P-Dilemma-Client1
 a client and server interaction for playing the Prisoner's Dilemma
 # Requirements
 Node.js and Express.js installed
