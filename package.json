@@ -1,0 +1,19 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "client#1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Ishan Verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "nodemon": "^1.18.9",
+    "request": "^2.88.0"
+  }
+}
